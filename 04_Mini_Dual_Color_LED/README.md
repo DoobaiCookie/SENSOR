@@ -512,7 +512,7 @@ void MiniLED_BatteryCharging(void)
 4. Green 2번 깜빡임 (확인)
 ```
 ## 테스트 영상
-![KakaoTalk_20260119_141042082](https://github.com/user-attachments/assets/1aa1b80d-6f5e-4a47-ae06-06d532b935b4)
+<img src = https://github.com/user-attachments/assets/1aa1b80d-6f5e-4a47-ae06-06d532b935b4 width="300" height="200">
 
 
 
