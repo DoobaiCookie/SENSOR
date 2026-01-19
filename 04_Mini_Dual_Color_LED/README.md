@@ -512,12 +512,12 @@ void MiniLED_BatteryCharging(void)
 4. Green 2번 깜빡임 (확인)
 ```
 ## 테스트 영상
-<img src = https://github.com/user-attachments/assets/1aa1b80d-6f5e-4a47-ae06-06d532b935b4 width="300" height="200">
+<img src = https://github.com/user-attachments/assets/1aa1b80d-6f5e-4a47-ae06-06d532b935b4.gif width="300" height="200">
 <br>
 ### 시스템 상태 테스트
 ## 테스트 영상
 <br>
-<img src = https://github.com/user-attachments/assets/fce2a260-1219-4040-b501-a52c7bdd789e width="300" height="200">
+<img src = https://github.com/user-attachments/assets/fce2a260-1219-4040-b501-a52c7bdd789e.gif width="300" height="200">
 
 ### 배터리 충전 시뮬레이션
 ```
