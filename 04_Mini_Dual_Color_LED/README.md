@@ -511,6 +511,10 @@ void MiniLED_BatteryCharging(void)
 3. Yellow → Green 전환 (부팅 완료)
 4. Green 2번 깜빡임 (확인)
 ```
+## 테스트 영상
+![KakaoTalk_20260119_141042082](https://github.com/user-attachments/assets/1aa1b80d-6f5e-4a47-ae06-06d532b935b4)
+
+
 
 ### 배터리 충전 시뮬레이션
 ```
