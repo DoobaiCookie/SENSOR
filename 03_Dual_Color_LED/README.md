@@ -440,8 +440,9 @@ void DualLED_Alternating(void)
 --- Cycle Complete ---
 ```
 ## **Serial Monitor Test
+| | |
 |------|------|
-|<img width="378" height="304" alt="image" src="https://github.com/user-attachments/assets/da40a0ae-e6e1-4005-8257-195a9497cd48" />|<img width="506" height="398" alt="image" src="https://github.com/user-attachments/assets/0c3ab02f-b758-4598-9c68-901c5d522b57" />|
+|<img width="380" height="300" alt="image" src="https://github.com/user-attachments/assets/da40a0ae-e6e1-4005-8257-195a9497cd48" />|<img width="380" height="300" alt="image" src="https://github.com/user-attachments/assets/0c3ab02f-b758-4598-9c68-901c5d522b57" />|
 
 ## 📝 데모 패턴 상세
 
