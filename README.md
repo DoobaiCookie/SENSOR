@@ -26,6 +26,7 @@ RGB LED Module          NUCLEO-F103RB
 │   GND  ─────┼────────┤ GND
 └─────────────┘        └─────────────┘
 ```
+<img width="583" height="360" alt="image" src="https://github.com/user-attachments/assets/e47cf6bb-31f3-4fac-ae4d-4088c25d8d6b" />
 
 > ⚠️ **주의**: 공통 애노드(Common Anode) 타입의 경우 GND 대신 3.3V에 연결하고, PWM 극성을 반전시켜야 합니다.
 
