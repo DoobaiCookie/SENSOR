@@ -353,59 +353,59 @@ int main(void)
   /* USER CODE BEGIN WHILE */
       while (1)
       {
-//          printf("\r\n[Test 1] Basic Colors\r\n");
-//
-//          printf("  OFF\r\n");
-//          MiniLED_SetState(LED_OFF);
-//          HAL_Delay(800);
-//
-//          printf("  RED\r\n");
-//          MiniLED_SetState(LED_RED);
-//          HAL_Delay(800);
-//
-//          printf("  GREEN\r\n");
-//          MiniLED_SetState(LED_GREEN);
-//          HAL_Delay(800);
-//
-//          printf("  YELLOW\r\n");
-//          MiniLED_SetState(LED_YELLOW);
-//          HAL_Delay(800);
-//
-//          printf("  ORANGE\r\n");
-//          MiniLED_SetState(LED_ORANGE);
-//          HAL_Delay(800);
-//
-//          printf("  LIME\r\n");
-//          MiniLED_SetState(LED_LIME);
-//          HAL_Delay(800);
-//
-//          MiniLED_SetState(LED_OFF);
-//          HAL_Delay(500);
+         printf("\r\n[Test 1] Basic Colors\r\n");
 
-//          printf("\r\n[Test 2] Pulse Patterns\r\n");
-//
-//          printf("  Red pulse x3\r\n");
-//          MiniLED_Pulse(LED_RED, 3);
-//          HAL_Delay(500);
-//
-//          printf("  Green pulse x3\r\n");
-//          MiniLED_Pulse(LED_GREEN, 3);
-//          HAL_Delay(500);
-//
-//          printf("  Yellow pulse x2\r\n");
-//          MiniLED_Pulse(LED_YELLOW, 2);
-//          HAL_Delay(500);
+         printf("  OFF\r\n");
+         MiniLED_SetState(LED_OFF);
+         HAL_Delay(800);
+
+         printf("  RED\r\n");
+         MiniLED_SetState(LED_RED);
+         HAL_Delay(800);
+
+         printf("  GREEN\r\n");
+         MiniLED_SetState(LED_GREEN);
+         HAL_Delay(800);
+
+         printf("  YELLOW\r\n");
+         MiniLED_SetState(LED_YELLOW);
+         HAL_Delay(800);
+
+         printf("  ORANGE\r\n");
+         MiniLED_SetState(LED_ORANGE);
+         HAL_Delay(800);
+
+         printf("  LIME\r\n");
+         MiniLED_SetState(LED_LIME);
+         HAL_Delay(800);
+
+         MiniLED_SetState(LED_OFF);
+         HAL_Delay(500);
+
+         printf("\r\n[Test 2] Pulse Patterns\r\n");
+
+         printf("  Red pulse x3\r\n");
+         MiniLED_Pulse(LED_RED, 3);
+         HAL_Delay(500);
+
+         printf("  Green pulse x3\r\n");
+         MiniLED_Pulse(LED_GREEN, 3);
+         HAL_Delay(500);
+
+         printf("  Yellow pulse x2\r\n");
+         MiniLED_Pulse(LED_YELLOW, 2);
+         HAL_Delay(500);
 
           printf("\r\n[Test 3] System Status Indicators\r\n");
           MiniLED_StatusDemo();
           HAL_Delay(500);
 
-//          printf("\r\n[Test 4] Data Transfer Simulation\r\n");
-//          MiniLED_DataTransfer();
-//          HAL_Delay(500);
-//
-//          printf("\r\n[Test 5] Battery Charging Simulation\r\n");
-//          MiniLED_BatteryCharging();
+         printf("\r\n[Test 4] Data Transfer Simulation\r\n");
+         MiniLED_DataTransfer();
+         HAL_Delay(500);
+
+         printf("\r\n[Test 5] Battery Charging Simulation\r\n");
+         MiniLED_BatteryCharging();
 
           MiniLED_SetState(LED_OFF);
 
@@ -630,3 +630,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
