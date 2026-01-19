@@ -461,8 +461,7 @@ GREEN  (3초) → YELLOW (1초) → RED (3초) → 반복
   0% → Red (빠른 점멸)
 ```
 테스트
-<br>
-![KakaoTalk_20260119_141042082](https://github.com/user-attachments/assets/bf781838-7bf4-44af-bce5-7006c4bf9589.gif)
+<img src="https://github.com/user-attachments/assets/bf781838-7bf4-44af-bce5-7006c4bf9589" width="100%">
 
 ### 색상 그라데이션
 ```
