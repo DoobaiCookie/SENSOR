@@ -323,32 +323,13 @@ void RGB_Demo_Rainbow(void)
 
 | RED | Green | Blue |
 |------|------|------|
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/acc5b678-3a6f-47ea-858b-a0be68d720e4" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/61787cf3-75fe-4e19-9969-acd75c1c80ff" /> | <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6680e050-4832-4047-85a3-a529481c17bb" /> |
-
-#RED
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6385a744-9c71-4a6f-9b8a-2e09705e6d99" />
+ | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/61787cf3-75fe-4e19-9969-acd75c1c80ff" /> | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6680e050-4832-4047-85a3-a529481c17bb" /> |
 <br>
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/acc5b678-3a6f-47ea-858b-a0be68d720e4" />
-<br>
-#Green
-<br>
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/61787cf3-75fe-4e19-9969-acd75c1c80ff" />
-<br>
-
-#Blue
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6680e050-4832-4047-85a3-a529481c17bb" />
-
-#Yellow
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3bff0d10-880e-4895-8ae2-e782518ebd37" />
-
-#Cyan
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ebdbf1f4-1c5a-48a2-a817-841a56e99f42" />
-
-#Magenta
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/64b89af6-5a25-4812-aca6-03da642c0113" />
-
-#White
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3229e90a-9496-4050-954c-c0fb6b27bade" />
-
+| White | Yellow | Cyan | Magenta |
+|------|------|------|------|
+|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3229e90a-9496-4050-954c-c0fb6b27bade" />|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3bff0d10-880e-4895-8ae2-e782518ebd37" />
+|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ebdbf1f4-1c5a-48a2-a817-841a56e99f42" />|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/64b89af6-5a25-4812-aca6-03da642c0113" />|
 
 
 ## 📚 참고 자료
