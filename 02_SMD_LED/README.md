@@ -304,6 +304,12 @@ void RGB_Demo_Rainbow(void)
 
 --- Cycle Complete ---
 ```
+## **🪄Serial Monitor Test**
+<img width="280" height="265" alt="image" src="https://github.com/user-attachments/assets/d74869d9-d0ea-4e76-8cce-33fe62b67df4" />
+
+## **💡LED Color Test**
+
+
 
 ## 🔍 트러블슈팅
 
