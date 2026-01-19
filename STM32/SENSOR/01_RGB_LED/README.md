@@ -319,7 +319,7 @@ void RGB_Demo_Rainbow(void)
 
 💡## RGB LED Test
 #RED
-<img width="1050" height="1400" alt="image" src="https://github.com/user-attachments/assets/acc5b678-3a6f-47ea-858b-a0be68d720e4" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/acc5b678-3a6f-47ea-858b-a0be68d720e4" />
 
 ## 📚 참고 자료
 
