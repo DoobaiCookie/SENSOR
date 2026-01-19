@@ -315,6 +315,7 @@ void RGB_Demo_Rainbow(void)
 | 특정 색상만 동작 | GPIO 설정 오류 | AF 설정 확인 |
 
 🪄## Serial Monitor Test
+<br>
 <img width="259" height="304" alt="image" src="https://github.com/user-attachments/assets/3820fc15-000d-495b-83cb-e635bbdfa08e" />
 
 
@@ -326,12 +327,10 @@ void RGB_Demo_Rainbow(void)
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6385a744-9c71-4a6f-9b8a-2e09705e6d99" />
  | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/61787cf3-75fe-4e19-9969-acd75c1c80ff" /> | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6680e050-4832-4047-85a3-a529481c17bb" /> |
 <br>
-| White | Yellow | Cyan | Magenta |
-|------|------|------|------|
+| White | Yellow | Cyan |
+|------|------|------|
 |<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3229e90a-9496-4050-954c-c0fb6b27bade" />|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3bff0d10-880e-4895-8ae2-e782518ebd37" />
-|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ebdbf1f4-1c5a-48a2-a817-841a56e99f42" />|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/64b89af6-5a25-4812-aca6-03da642c0113" />|
-
-
+|<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ebdbf1f4-1c5a-48a2-a817-841a56e99f42" />|
 ## 📚 참고 자료
 
 - [STM32F103 Reference Manual](https://www.st.com/resource/en/reference_manual/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
