@@ -439,6 +439,9 @@ void DualLED_Alternating(void)
 
 --- Cycle Complete ---
 ```
+## **Serial Monitor Test
+|------|------|
+|<img width="378" height="304" alt="image" src="https://github.com/user-attachments/assets/da40a0ae-e6e1-4005-8257-195a9497cd48" />|<img width="506" height="398" alt="image" src="https://github.com/user-attachments/assets/0c3ab02f-b758-4598-9c68-901c5d522b57" />|
 
 ## 📝 데모 패턴 상세
 
@@ -456,13 +459,15 @@ GREEN  (3초) → YELLOW (1초) → RED (3초) → 반복
  10% → Red (느린 점멸)
   0% → Red (빠른 점멸)
 ```
+# 테스트
+<br>
+![KakaoTalk_20260119_141042082](https://github.com/user-attachments/assets/bf781838-7bf4-44af-bce5-7006c4bf9589)
 
 ### 색상 그라데이션
 ```
 Red(255,0) → Yellow(255,255) → Green(0,255) → Yellow → Red
 PWM을 이용해 부드럽게 전환
 ```
-
 ## 🔍 트러블슈팅
 
 | 증상 | 원인 | 해결 방법 |
