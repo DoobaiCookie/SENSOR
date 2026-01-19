@@ -314,6 +314,9 @@ void RGB_Demo_Rainbow(void)
 | 색상이 어두움 | PWM 주기 문제 | Period 값 조정 |
 | 특정 색상만 동작 | GPIO 설정 오류 | AF 설정 확인 |
 
+## Serial Monitor
+<img width="259" height="304" alt="image" src="https://github.com/user-attachments/assets/3820fc15-000d-495b-83cb-e635bbdfa08e" />
+
 ## 📚 참고 자료
 
 - [STM32F103 Reference Manual](https://www.st.com/resource/en/reference_manual/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
