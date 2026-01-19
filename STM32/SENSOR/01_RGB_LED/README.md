@@ -323,7 +323,7 @@ void RGB_Demo_Rainbow(void)
 
 | RED | Green | Blue |
 |------|------|------|
-| <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/acc5b678-3a6f-47ea-858b-a0be68d720e4" /> | <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/61787cf3-75fe-4e19-9969-acd75c1c80ff" /> | <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6680e050-4832-4047-85a3-a529481c17bb" /> |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/acc5b678-3a6f-47ea-858b-a0be68d720e4" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/61787cf3-75fe-4e19-9969-acd75c1c80ff" /> | <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6680e050-4832-4047-85a3-a529481c17bb" /> |
 
 #RED
 <br>
