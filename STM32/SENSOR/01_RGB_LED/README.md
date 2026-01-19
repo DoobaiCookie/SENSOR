@@ -314,8 +314,12 @@ void RGB_Demo_Rainbow(void)
 | 색상이 어두움 | PWM 주기 문제 | Period 값 조정 |
 | 특정 색상만 동작 | GPIO 설정 오류 | AF 설정 확인 |
 
-## Serial Monitor Test
+🪄## Serial Monitor Test
 <img width="259" height="304" alt="image" src="https://github.com/user-attachments/assets/3820fc15-000d-495b-83cb-e635bbdfa08e" />
+
+💡## RGB LED Test
+#RED
+<img width="1050" height="1400" alt="image" src="https://github.com/user-attachments/assets/acc5b678-3a6f-47ea-858b-a0be68d720e4" />
 
 ## 📚 참고 자료
 
