@@ -534,6 +534,9 @@ void MiniLED_BatteryCharging(void)
 2. Green 불규칙 점멸 (데이터 전송)
 3. Green 페이드 아웃 (완료)
 ```
+## 테스트
+<img src = https://github.com/user-attachments/assets/1d36cec0-cd43-442e-8a5a-220e39eeda1b width="300" height="200">
+
 
 ## 🔍 트러블슈팅
 
