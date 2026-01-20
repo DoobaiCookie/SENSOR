@@ -125,6 +125,7 @@ const int mario_theme_length = sizeof(mario_theme) / sizeof(mario_theme[0]);
 /* USER CODE END PV */
 ```
 ```c
+	//카트라이더 음악으로 변경시 사용
 	{NOTE_A4, SIXTEENTH}, {NOTE_A4, SIXTEENTH}, {NOTE_A4, EIGHTH}, {REST, EIGHTH},
     {NOTE_A4, SIXTEENTH}, {NOTE_A4, SIXTEENTH}, {NOTE_A4, EIGHTH}, {REST, EIGHTH},
 
