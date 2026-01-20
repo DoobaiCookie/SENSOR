@@ -413,7 +413,7 @@ void display_servo_status(uint8_t pan, uint8_t tilt)
 
 # 오실로스코프 파형 확인
 
-| 전체 주기 | Pan = 125 | Pan = 45 Tilt = 125 |
+| 전체 주기 | Pan = 125 (2.5ms) | Pan = 45 (1.5ms) Tilt = 125 (2.5ms) |
 |------|------|------|
 |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/65108d1c-5e7e-4e83-ae32-76ece07887a8" />|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/00858de0-6292-4f62-be9d-357238b0846a" />|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a29e5040-c93d-48ac-9252-68289377e05e" />|
 
