@@ -227,12 +227,15 @@ PUTCHAR_PROTOTYPE
 
     /* USER CODE END WHILE */
 ```
-
 ---
 # 각도표시
 ---
 
 <img width="995" height="550" alt="servo_result" src="https://github.com/user-attachments/assets/c42adba2-96aa-4ff5-a119-5044486adb6e" />
+
+# 테스트 영상
+<img width="368" height="654" alt="image" src= "https://github.com/user-attachments/assets/22a7be4e-d909-4f9a-a337-3087e5263949" />
+
 
 
 ```c
