@@ -420,6 +420,12 @@ void display_servo_status(uint8_t pan, uint8_t tilt)
 # 카메라 얼굴 트래킹 장치
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/17479ace-21d8-4197-b776-120f56c5e966" />
 
+##  요약
+- OpenCV의 내장 알고리즘을 사용하여 얼굴 인식
+- 얼굴이 중앙의 허용 범위를 벗어나면 이동명령
+- 시리얼 통신을 통해 STM32 보드에 w,a,s,d를 전송하여 서보모터 구동 
+
+
 # 얼굴인식 및 트래킹 코드
 ```
 #!/usr/bin/env python3
