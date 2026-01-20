@@ -121,7 +121,38 @@ const Note mario_theme[] = {
     {NOTE_A6, EIGHTH}, {NOTE_C7, EIGHTH}, {REST, EIGHTH}, {NOTE_A6, EIGHTH},
     {NOTE_C7, EIGHTH}, {NOTE_D7, EIGHTH}
 };
+## 카트라이더 음악으로 변경시
+```c
+	{NOTE_A4, SIXTEENTH}, {NOTE_A4, SIXTEENTH}, {NOTE_A4, EIGHTH}, {REST, EIGHTH},
+    {NOTE_A4, SIXTEENTH}, {NOTE_A4, SIXTEENTH}, {NOTE_A4, EIGHTH}, {REST, EIGHTH},
 
+    // === The Iconic Riff (가장 유명한 구간) ===
+    // "따-으-따-단-딴-따-단-딴!" (치고 올라가기)
+    {NOTE_A4, EIGHTH}, {NOTE_C5, EIGHTH}, {NOTE_D5, EIGHTH}, {NOTE_DS5, EIGHTH}, // 라 도 레 레#
+    {NOTE_E5, EIGHTH}, {NOTE_G5, EIGHTH}, {NOTE_A5, QUARTER}, // 미 솔 라! (쾅!)
+    
+    {REST, EIGHTH},
+
+    // === Main Melody (Electric Guitar) ===
+    // (라~ 솔~ 미~ 레 도 라 도 레 미~)
+    {NOTE_A5, QUARTER}, {NOTE_G5, EIGHTH}, {NOTE_E5, EIGHTH}, // 라~ 솔 미
+    {NOTE_D5, EIGHTH}, {NOTE_C5, EIGHTH}, {NOTE_A4, EIGHTH},  // 레 도 라
+    {NOTE_C5, EIGHTH}, {NOTE_D5, EIGHTH}, {NOTE_E5, QUARTER}, // 도 레 미~
+    
+    {REST, EIGHTH},
+
+    // (라~ 솔~ 미~ 레 도 라 "도 레 도"~)
+    {NOTE_A5, QUARTER}, {NOTE_G5, EIGHTH}, {NOTE_E5, EIGHTH},
+    {NOTE_D5, EIGHTH}, {NOTE_C5, EIGHTH}, {NOTE_A4, EIGHTH},
+    {NOTE_C5, EIGHTH}, {NOTE_D5, EIGHTH}, {NOTE_C5, QUARTER}, // 여기가 포인트
+
+    // === Climax (Speed Up) ===
+    // (도 레 미 솔 라!)
+    {NOTE_C5, EIGHTH}, {NOTE_D5, EIGHTH}, {NOTE_E5, EIGHTH}, {NOTE_G5, EIGHTH},
+    {NOTE_A5, HALF}, // 마지막 라!!!
+    
+    {REST, HALF}
+```
 const int mario_theme_length = sizeof(mario_theme) / sizeof(mario_theme[0]);
 /* USER CODE END PV */
 ```
