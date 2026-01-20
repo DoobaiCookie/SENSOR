@@ -237,7 +237,7 @@ PUTCHAR_PROTOTYPE
 <img width="350" height="650" alt="image" src= "https://github.com/user-attachments/assets/22a7be4e-d909-4f9a-a337-3087e5263949" />
 
 
-
+# 각도표시 밎 이동 단위 변경 코드 (기존 이동 단위 1 → 5 )
 ```c
 /* USER CODE BEGIN Includes */
 #include <stdio.h>
