@@ -103,7 +103,7 @@ SG90_SetAngle(180);  // 180도
 HAL_Delay(1000);
 ```
 ----
-# 코드 수정
+# 기본 서보모터 제어 코드 
 ----
 
    * TIM2_CH1 - PA0
@@ -237,7 +237,7 @@ PUTCHAR_PROTOTYPE
 <img width="350" height="650" alt="image" src= "https://github.com/user-attachments/assets/22a7be4e-d909-4f9a-a337-3087e5263949" />
 
 
-# 각도표시 밎 이동 단위 변경 코드 (기존 이동 단위 1 → 5 )
+# 각도표시 밎 이동 단위 변경 코드 ( 이동 단위 1 → 5 )
 ```c
 /* USER CODE BEGIN Includes */
 #include <stdio.h>
