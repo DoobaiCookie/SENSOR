@@ -121,7 +121,9 @@ const Note mario_theme[] = {
     {NOTE_A6, EIGHTH}, {NOTE_C7, EIGHTH}, {REST, EIGHTH}, {NOTE_A6, EIGHTH},
     {NOTE_C7, EIGHTH}, {NOTE_D7, EIGHTH}
 };
-## 카트라이더 음악으로 변경시
+const int mario_theme_length = sizeof(mario_theme) / sizeof(mario_theme[0]);
+/* USER CODE END PV */
+```
 ```c
 	{NOTE_A4, SIXTEENTH}, {NOTE_A4, SIXTEENTH}, {NOTE_A4, EIGHTH}, {REST, EIGHTH},
     {NOTE_A4, SIXTEENTH}, {NOTE_A4, SIXTEENTH}, {NOTE_A4, EIGHTH}, {REST, EIGHTH},
@@ -152,9 +154,6 @@ const Note mario_theme[] = {
     {NOTE_A5, HALF}, // 마지막 라!!!
     
     {REST, HALF}
-```
-const int mario_theme_length = sizeof(mario_theme) / sizeof(mario_theme[0]);
-/* USER CODE END PV */
 ```
 
 ```c
