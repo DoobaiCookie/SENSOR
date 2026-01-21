@@ -184,5 +184,7 @@ LCD_PutCustomChar(7);  // 스피커
 
 /* USER CODE END 2 */
 ```
+# 응용예제
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/d42735fd-796b-44c1-a7ef-f6114c8186f8" />
 
 
