@@ -543,6 +543,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 # 작동테스트
 <img width="600" height="400" src="https://github.com/user-attachments/assets/fdc0be34-2242-4d21-9400-577a5dc992dd" />
 
-# 오실로스코프 파형확인
+# 오실로스코프 파형확인(SDA 먼저 하강 , 그후 SCK 하강 → Start 조건)
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c0d2f6d6-1352-4da9-88e9-7ba6ce426f4c" />
+
 
