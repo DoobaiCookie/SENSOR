@@ -273,4 +273,7 @@ void LCD_PUTS(char *str) {
 
   /* USER CODE END 2 */
 ```
+#작동 테스트
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/c9572f09-56cc-4e5d-abdd-5ed1a4610cf8" />
+
 
