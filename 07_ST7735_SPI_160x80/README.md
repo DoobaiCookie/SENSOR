@@ -807,4 +807,4 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 # 테스트 영상
-<img width = "400" height = "500" src="https://github.com/user-attachments/assets/e188d787-6499-4315-a6c7-488cd8e5d48b />
+<img width="600" height="500" src="https://github.com/user-attachments/assets/e188d787-6499-4315-a6c7-488cd8e5d48b" />
