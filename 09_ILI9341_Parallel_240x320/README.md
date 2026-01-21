@@ -7,3 +7,5 @@
 
 
 
+# 작동테스트
+<img width="400" height="600" src="https://github.com/user-attachments/assets/054454e4-09d9-4600-940b-df62efb412bc" />
