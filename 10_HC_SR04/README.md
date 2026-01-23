@@ -132,4 +132,6 @@ long unsigned int echo(void)
 # 작동 테스트
 <img width="814" height="535" alt="image" src="https://github.com/user-attachments/assets/25dc1ccf-c4bf-4985-b335-c7dca1addd0b" />
 
+# 오실로스코프(노란선 - TRIG, 파란선 - ECHO)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/33c77757-6bbd-475a-a092-305261660e4b" />
 
