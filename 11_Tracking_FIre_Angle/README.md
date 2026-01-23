@@ -1,4 +1,4 @@
-##LED를 이용한 트래킹, 불꽃감지, 각도 센서 제어
+## LED를 이용한 트래킹, 불꽃감지, 각도 센서 제어
 <br>
 <img width="644" height="586" alt="image" src="https://github.com/user-attachments/assets/b1b7f3cc-974a-42a9-97b8-b26c6d64f208" />
 <br>
