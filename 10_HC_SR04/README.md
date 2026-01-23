@@ -129,5 +129,7 @@ long unsigned int echo(void)
     /* USER CODE BEGIN 3 */
   }
 ```
+# 작동 테스트
+<img width="814" height="535" alt="image" src="https://github.com/user-attachments/assets/25dc1ccf-c4bf-4985-b335-c7dca1addd0b" />
 
 
